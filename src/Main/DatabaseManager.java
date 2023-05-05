@@ -1,3 +1,5 @@
+package Main;
+
 import java.io.BufferedReader;
 import java.io.FileReader;
 import java.io.IOException;
@@ -5,6 +7,9 @@ import java.sql.Connection;
 import java.sql.DriverManager;
 import java.sql.PreparedStatement;
 import java.sql.SQLException;
+
+
+// Run this only once to insert data into the database
 
 public class DatabaseManager {
     private static final String DB_URL = "jdbc:mysql://localhost:3306/vocabulary";
