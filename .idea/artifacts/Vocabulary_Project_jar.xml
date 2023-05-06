@@ -1,0 +1,9 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="Vocabulary Project:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/Vocabulary_Project_jar</output-path>
+    <root id="archive" name="Vocabulary Project.jar">
+      <element id="module-output" name="Vocabulary Project" />
+      <element id="extracted-dir" path="$USER_HOME$/Downloads/Compressed/mysql-connector-j-8.0.33/mysql-connector-j-8.0.33/mysql-connector-j-8.0.33.jar" path-in-jar="/" />
+    </root>
+  </artifact>
+</component>
